@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SamanthaLarbi
+- 💞️ I am a back end developer
 - 👀 I’m interested in Tech and creatvity 
-- 🌱 I’m currently learning how to use code to create without boundaries, I am a junior data engineer
+- 🌱 I’m currently learning how to use code to create without boundaries
 - 💞️ I’m looking to collaborate on projects big or small. I want to get stuck in
 - 📫 How to reach me ... send me a message on Linkdin (Samantha LarbiLLM) or at samanthalarbi22@gmail.com
 
